@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://github.com/hzajkani/KianDigitalMancala/edit/master/README.md
+
 <!--
 **hzajkani/hzajkani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
